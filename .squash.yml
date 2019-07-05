@@ -13,3 +13,4 @@ deployments:
     deployment_type: kubernetes
     kubernetes_service: apache
     kubernetes_helm_repository: bitnami https://charts.bitnami.com/bitnami
+
